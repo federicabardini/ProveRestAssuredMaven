@@ -3,7 +3,7 @@ import io.restassured.config.RestAssuredConfig;
 import io.restassured.http.Header;
 import io.restassured.response.Response;
 import org.exparity.hamcrest.date.LocalDateMatchers;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;
 
