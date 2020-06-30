@@ -1,0 +1,11 @@
+{
+  "firstname": "Federica",
+  "lastname": "Rossi",
+  "totalprice": 75,
+  "depositpaid": true,
+  "bookingdates": {
+    "checkin": "2020-07-07",
+    "checkout": "2020-07-10"
+  },
+  "additionalneeds": "No smoking room"
+}

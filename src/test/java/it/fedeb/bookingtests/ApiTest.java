@@ -1,3 +1,5 @@
+package it.fedeb.bookingtests;
+
 import io.restassured.RestAssured;
 import io.restassured.config.RestAssuredConfig;
 import io.restassured.http.Header;
